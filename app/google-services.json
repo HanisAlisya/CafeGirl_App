@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469597743651",
+    "project_id": "ourcafe-f6360",
+    "storage_bucket": "ourcafe-f6360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469597743651:android:602e0c861e424e3988df96",
+        "android_client_info": {
+          "package_name": "com.example.ourcafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP0pm3JjRoaao-HQbn9MBLM-AwmWzuS4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
